@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的软件</string>
+    <string name="Login">登录</string>
+    <string name="SignUp">注册</string>
+    <string name="Welcome">欢迎！</string>
+    <string name="DaisySpace">戴森洋的空间</string>
+    <string name="Foget">忘记密码？</string>
+    <string name="OR">可以试试</string>
+    <string name="Password">密码</string>
+    <string name="EandU">用户名或者邮箱</string>
+    <string name="ConPass">确认密码</string>
+</resources>

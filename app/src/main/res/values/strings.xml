@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyLogin_and_Signup</string>
+    <string name="Login">Login</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="Welcome">Welcome!</string>
+    <string name="DaisySpace">Daisy Space</string>
+    <string name="Foget">Forget Password?</string>
+    <string name="OR">OR</string>
+    <string name="Password">Password</string>
+    <string name="EandU">Email or User Name</string>
+    <string name="ConPass">Confirm Password</string>
+</resources>
